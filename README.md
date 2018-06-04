@@ -15,3 +15,7 @@ some more texts here.
 ## Acknowledgement
 
 ## Reference
+
+### Copyright
+
+2014 Git Training
