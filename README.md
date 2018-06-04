@@ -19,3 +19,6 @@ some more texts here.
 ### Copyright
 
 2014 Git Training
+
+### how to contribute
+please fill up this.
